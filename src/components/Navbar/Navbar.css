@@ -1,0 +1,26 @@
+.custom-o {
+    position: relative;
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .custom-o::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: orange;
+    border-radius: 50%;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .span-1{
+    position: relative;
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+
+  }
+  
