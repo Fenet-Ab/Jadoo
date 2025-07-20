@@ -3,7 +3,7 @@ import satelite from '../../assets/satelite.png'
 import plane from '../../assets/plane.png'
 import mice from '../../assets/mice.png'
 import setting from '../../assets/setting.png'
-import './category.css'
+import './Category.css'
 
 const Category = () => {
     return (
