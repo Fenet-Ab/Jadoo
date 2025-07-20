@@ -15,6 +15,7 @@ A beautiful, modern travel landing page built with **React** and **Tailwind CSS*
 - Multi-language dropdown (English, Amharic, Afanoromo)
 - Mobile-friendly navigation with dropdown menu
 - Built with React + Vite + Tailwind CSS
+- 
 
 ---
 
@@ -52,7 +53,12 @@ A beautiful, modern travel landing page built with **React** and **Tailwind CSS*
 ```
 jadoo/
   ├── src/
-  │   ├── assets/         # Images & icons
+  │   ├── assets/         # Images & icons<img width="1902" height="872" alt="Screenshot 2025-07-20 203345" src="https://github.com/user-attachments/assets/abf73ade-5ca6-491c-875f-fc34c1762cca" />
+
+
+https://github.com/user-attachments/assets/9fe8f5c5-bf35-40f6-a965-1ecb3d58b674
+
+
   │   ├── components/     # React components (Navbar, Body, Category, etc.)
   │   ├── App.jsx         # Main app
   │   └── main.jsx        # Entry point
