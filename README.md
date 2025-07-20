@@ -66,6 +66,7 @@ https://github.com/user-attachments/assets/9fe8f5c5-bf35-40f6-a965-1ecb3d58b674
   ├── package.json
   └── ...
 ```
+<img width="1902" height="872" alt="Screenshot 2025-07-20 203345" src="https://github.com/user-attachments/assets/55266423-cc83-449e-8855-4cf67e3d8c80" />
 
 ---
 
